@@ -11,8 +11,8 @@
 | 프로젝트명 | 설명 | 기술스택 |
 |-----------|------|----------|
 | [Care_of_my_fridge-capstone-design](https://github.com/dudwls3550/Care_of_my_fridge-capstone-design) | 냉장고 속 재료 기반 요리 추천 서비스 | Python, Flask, 머신러닝 |
-| [ABC_boot_camp](https://github.com/dudwls3550/ABC_boot_camp) | 부트캠프 중 다양한 프로젝트 수행 | Python, EDA |
-| [Mentoring_project](https://github.com/dudwls3550/Mentoring_project) | 멘토링을 통해 데이터 분석 역량 강화 | Jupyter Notebook |
+| [ABC_boot_camp](https://github.com/dudwls3550/ABC_boot_camp) | 치매 환자 동선 예측 서비스 | Python, EDA |
+| [Mentoring_project](https://github.com/dudwls3550/Data_Creator) | User based item filtering을 활용하여 의류 추천(예측) 서비스 | Jupyter Notebook, PyTorch, Pre-trained Model |
 
 ---
 
